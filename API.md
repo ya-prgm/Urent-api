@@ -436,5 +436,21 @@ def _sign(body: bytes, query_params: dict, client_id: str, header_values: str) -
 
 ---
 
-## 11. Дисклеймер
-**Данная документация предназначена исключительно для образовательных целей и ознакомления с принципами работы мобильных API. Автор не несет ответственности за использование данных методов в целях, нарушающих правила сервиса Urent.**
+## ⚠️ Disclaimer / Отказ от ответственности
+
+### English
+This repository and the information contained herein are strictly for educational, research, and informational purposes only. 
+* **No Commercial Use:** This project is not intended for commercial use and is completely non-profit.
+* **No Harm Intended:** The author does not encourage, support, or facilitate any illegal activities, service disruption, or unauthorized access to computer systems.
+* **Intellectual Property:** All product names, logos, and brands are property of their respective owners. 
+* **Terms of Service:** The user of this materials assumes all responsibility for compliance with the terms of service of the respective platforms. The author bears no responsibility for any misuse or damage caused by this repository.
+* **Take-Down Notice:** If you are the copyright owner or a representative of the company and wish to have this content removed, please contact me directly, and I will delete this repository immediately.
+
+### Русский
+Данный репозиторий и содержащаяся в нем информация предоставлены исключительно в ознакомительных, учебных и научно-исследовательских целях.
+* **Некоммерческое использование:** Проект не преследует коммерческих целей, является полностью некоммерческим и не используется для получения выгоды.
+* **Отсутствие злого умысла:** Автор не призывает к совершению противоправных действий, не поощряет взлом, обход систем безопасности или нарушение работоспособности сторонних сервисов.
+* **Интелlectualная собственность:** Все права на товарные знаки, названия сервисов и их логотипы принадлежат их законным владельцам.
+* **Пользовательское соглашение:** Любое использование материалов данного репозитория производится пользователями на свой страх и риск. Автор не несет ответственности за возможные блокировки аккаунтов или иные последствия.
+* **Правообладателям:** Если вы являетесь представителем компании или правообладателем и считаете, что данный репозиторий нарушает ваши права, пожалуйста, свяжитесь со мной. Материалы будут удалены незамедлительно по первому требованию.
+
